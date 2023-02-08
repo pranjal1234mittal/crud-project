@@ -1,0 +1,9 @@
+.nxt-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.student-flex{
+    display: flex;
+}
+.list{}

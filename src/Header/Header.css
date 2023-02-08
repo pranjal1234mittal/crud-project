@@ -1,0 +1,15 @@
+.header-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: red;
+    font-size: 30px;
+    margin-left: 100px;
+}
+.input-box{
+    border: 2px solid  ;
+    margin-right: 100px;
+    padding: 1rem;
+}

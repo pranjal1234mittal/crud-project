@@ -1,0 +1,33 @@
+.student-flex{
+    display: flex;
+}
+.nxt-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.form-box{
+    width: 100%;
+  padding: 20px 30px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid white;
+  border-radius: 4px;
+  box-sizing: border-box;
+  box-shadow: whitesmoke;
+}
+input,textarea{
+   margin-bottom: 10px;
+   padding: 20px 20px;
+   cursor: pointer;
+}
+select{
+    cursor: pointer;
+}
+
+/* .row1{
+    margin-right:6px; 
+    width: 100%; 
+    heigh:3rem;
+    
+} */
